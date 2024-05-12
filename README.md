@@ -10,3 +10,8 @@ verifying.py is used for the verification of labeled images by comparing expecte
 
 
 The Ipython Notebook uses the pre-processed image data directly.
+
+
+We could not upload the additional folders to github as the files were too large and Github allows the files which are <=25 MB. So we are attaching a google drive link below which contains additional folders for Combined excel data, Modifiied images and Bounding box
+
+Link: https://drive.google.com/drive/folders/1iOlxZfT4WDExJyXcLFg_gax2270fYNjv?usp=sharing
