@@ -408,6 +408,7 @@ param_list = list(ParameterSampler(param_grid, n_iter=5, random_state=42))
 best_loss = float('inf')
 best_params = None
 
+
 # Iterate through different hyperparameter combinations
 for params in param_list:
     learning_rate = params['learning_rate']
