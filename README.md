@@ -11,7 +11,9 @@ verifying.py is used for the verification of labeled images by comparing expecte
 
 The Ipython Notebook uses the pre-processed image data directly.
 
-The main code is inside the Google Drive folder named "Final AI Capstone Notebook"
+The main code is inside the Google Drive folder named "Final AI Capstone Notebook.ipynb"
+
+Final AI Capstone Notebook.py has Python code translated from Python notebook to .py format
 
 We could not upload the additional folders to github as the files were too large and Github allows files that are <=25 MB. So we are attaching a Google Drive link below which contains additional folders for combined Excel data, Modifiied images, and Bounding box and main Python Notebook code
 
